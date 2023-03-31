@@ -6,6 +6,8 @@ Bacharel em Física Médica. Atualmente, mestrando do PPGTIGSaúde UFCSPA - Linh
 
 - 🤝 Busco oportunidades nas áreas relacionadas à Ciência de Dados e Deep Learning, aplicando os conhecimentos adquiridos durante a graduação e mestrado.
 
+
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgmalanga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -20,5 +22,3 @@ Bacharel em Física Médica. Atualmente, mestrando do PPGTIGSaúde UFCSPA - Linh
 <a href = "mailto:contato@rg.malanga"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-guimarâes-malanga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![Snake animation](https://github.com/rgmalanga/rgmalanga/blob/output/github-contribution-grid-snake.svg)
