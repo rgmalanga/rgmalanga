@@ -13,7 +13,7 @@
 
 .
 
-##   ........Busco oportunidades nas áreas relacionadas à Ciência de Dados e Deep Learning.........
+#  <center> Busco oportunidades nas áreas relacionadas à Ciência de Dados e Deep Learning </center>
 
 ### Meus contatos:
 <div>
