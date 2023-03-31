@@ -1,16 +1,24 @@
 ## Olá, seja bem vindo !
 
+### Minha Formação
 * Bacharel em Física Médica.
 
 * Mestrando em Tecnologias da Informação e Gestão em Saúde na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
   - Linha de Pesquisa em Sistemas inteligentes e aplicações na saúde.
   - Projeto de Pesquisa com ênfase em Inteligência Artificial aplicada ao Radiodiagnóstico.
 
+### Sobre minhas atividades recentes
+
 - 🔭 Atualmente, na tese do meu mestrado trabalho com processamento de imagens médicas e deep learning. Além disso, sempre que possível realizo competições na plataforma Kaggle com o intuito de estar cara a cara com novos desafios nos quais posso além de estar sempre aprendendo coisas novas, testar minhas habilidades.
 
-### - 🤝 Busco oportunidades nas áreas relacionadas à Ciência de Dados e Deep Learning.
+.
 
+#   ........Busco oportunidades nas áreas relacionadas à Ciência de Dados e Deep Learning.........
+.
 
+.
+
+.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
