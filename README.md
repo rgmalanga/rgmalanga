@@ -1,4 +1,4 @@
-## Olá, seja bem vindo !
+# Olá, sejam bem-vindos !
 
 ### Minha Formação
 * Bacharel em Física Médica.
@@ -18,7 +18,7 @@
 .
 
 .
-#  <center> Busco oportunidades nas áreas relacionadas à Ciência de Dados e Machine Learning/Deep Learning </center>
+# <center> Busco oportunidades nas áreas relacionadas à Ciência de Dados e Machine Learning/Deep Learning </center>
 
 ### Meus contatos:
 <div>
