@@ -18,7 +18,7 @@
 .
 
 .
-# <center> Busco oportunidades nas áreas relacionadas à Ciência de Dados e Machine Learning/Deep Learning </center>
+# Busco oportunidades nas áreas relacionadas à Ciência de Dados e Machine Learning/Deep Learning 
 
 ### Meus contatos:
 <div>
