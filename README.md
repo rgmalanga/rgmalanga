@@ -1,11 +1,28 @@
-# Olá, sejam bem-vindos !
+# Welcome to my world! :wave:
 
-### Minha Formação
-* Bacharel em Física Médica.
+### My name is Rafael Guimarães Malanga! :man_technologist:
+* Bachelor's degree in Medical Physics at Federal University of Health Sciences of Porto Alegre
+* Master's degree in Information Technologies at Federal University of Health Sciences of Porto Alegre
 
-* Mestre em Tecnologias da Informação e Gestão em Saúde na Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA)
-  - Linha de Pesquisa em Sistemas inteligentes e aplicações na saúde.
-  - Projeto de Pesquisa com ênfase em Inteligência Artificial aplicada ao Radiodiagnóstico.
+<div align="center">
+
+## :rocket::rocket::rocket: I'm on an exciting journey in the world of computer vision and deep learning, with a focus on making a difference in the medical field! :rocket::rocket::rocket:
+
+</div>
+
+### Expertise :books:
+* I specialize in Medical Image Processing, Machine/Deep Learning, Natural Language Processing, and Computer Vision.
+
+### Current work :microscope:
+* Currently, I'm immersed in creating, training, and validating models using deep learning to detect pathologies in medical images at Medfinder 
+
+### Current Study :fire:
+* Actively involved in the development and structuring of APIs to support computer vision models.
+* Working on the development of cross-platform applications for Android and IOS.
+
+<br>
+<br>
+<br>
 
 ### Ferramentas e Tecnologias
 
@@ -16,10 +33,10 @@
           
 ![](https://komarev.com/ghpvc/?username=rgmalanga)
 
-.
+<br>
 
 
-### Meus contatos:
+## Meus contatos:
 <div>
 <a href = "mailto:rg.malanga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-guimarães-malanga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
