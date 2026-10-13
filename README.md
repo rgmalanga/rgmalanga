@@ -1,40 +1,45 @@
-# Welcome to my world! :wave:
+# Rafael G. Malanga
 
-### My name is Rafael Guimarães Malanga! :man_technologist:
-* Bachelor's degree in Medical Physics at Federal University of Health Sciences of Porto Alegre
-* Master's degree in Information Technologies at Federal University of Health Sciences of Porto Alegre
+**Data Scientist & AI Engineer** · Porto Alegre, Brazil
 
-<div align="center">
+I ship data and AI systems end to end: statistical models and large-scale pipelines on Databricks,
+production LLM integrations (MCP servers, Claude, Gemini, Bedrock) and full-stack cloud platforms.
 
-## :rocket::rocket::rocket: I'm on an exciting journey in the world of computer vision and deep learning, with a focus on making a difference in the medical field! :rocket::rocket::rocket:
+### What I work on
 
-</div>
+- **Data science & AI consulting.** I work on inventory optimization, churn ranking,
+  supplier-cost analytics and LLM document extraction for large companies. I also lead an
+  internal Claude adoption initiative, which includes a secure MCP server (OAuth 2.0 +
+  Entra ID SSO) that connects Claude to a CRM.
+- **Full-stack products (freelance).** A legal-tech platform on AWS (FastAPI + React), a B2B
+  medical-education streaming platform on Firebase with a Gemini assistant, and technical
+  auditing and CI/CD governance for a live iOS medical game.
 
-### Expertise :books:
-* I specialize in Medical Image Processing, Machine/Deep Learning, Natural Language Processing, and Computer Vision.
+Most of this work lives in private repositories under NDA. I'm happy to walk through the
+architecture and the decisions behind it in a conversation.
 
-### Current work :microscope:
-* Currently, I'm immersed in creating, training, and validating models using deep learning to detect pathologies in medical images at Medfinder 
+### Stack
 
-### Current Study :fire:
-* Actively involved in the development and structuring of APIs to support computer vision models.
-* Working on the development of cross-platform applications for Android and IOS.
+| | |
+|---|---|
+| **AI engineering** | LLMs (Claude, Gemini, OpenAI) · MCP servers · Amazon Bedrock · LangChain · RAG · QLoRA fine-tuning |
+| **Data science & ML** | Statistical modeling · Optuna · scikit-learn · PyTorch · TensorFlow · computer vision · NLP |
+| **Data & BI** | Databricks · PySpark · Power BI · BigQuery · Looker · Neo4j |
+| **Backend & frontend** | Python · FastAPI · PostgreSQL · TypeScript · React · Next.js · React Native / Expo |
+| **Cloud & DevOps** | AWS · Azure · GCP · Firebase · Supabase · Terraform · Docker · GitHub Actions |
 
-### Tools and Technologies
+### Background
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-plain.svg" width="40" height="40"/>
-              
-![](https://komarev.com/ghpvc/?username=rgmalanga)
+- M.Sc. in Information Technology and B.Sc. in Medical Physics (UFCSPA)
+- Earlier work: computer vision for medical imaging (fracture detection, 3D MRI tumor
+  segmentation) and clinical NLP
+- Neo4j Certified Professional
 
-# My contacts
-<div>
-<a href = "mailto:rg.malanga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-guimarães-malanga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+### Contact
+
+<a href="https://www.linkedin.com/in/rafael-guimar%C3%A3es-malanga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:rg.malanga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br>
-<br>
 
-![Snake animation](https://raw.githubusercontent.com/rgmalanga/rgmalanga/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake](https://raw.githubusercontent.com/rgmalanga/rgmalanga/output/github-contribution-grid-snake-dark.svg)
