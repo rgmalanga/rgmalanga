@@ -37,7 +37,7 @@ architecture and the decisions behind it in a conversation.
 
 ### Contact
 
-<a href="https://www.linkedin.com/in/rafael-guimar%C3%A3es-malanga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/rafael-guimaraes-malanga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:rg.malanga@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <br>
